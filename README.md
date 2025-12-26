@@ -1,26 +1,32 @@
-<h1 align="center">Hi, I'm Abeer Gandhi</h1>
+<h1 align="center">Abeer Gandhi</h1>
 <h3 align="center">
-Software Engineer | AI & Full-Stack Developer | Cloud & Automation Enthusiast
+AI & Machine Learning Engineer | Full-Stack Software Engineer | Cloud & Automation
 </h3>
 
 <p align="center">
-I design and build scalable web applications, AI-powered systems, and automation tools with a strong focus on clean architecture, performance, and real-world usability.  
-I enjoy solving complex problems, working across the stack, and turning ideas into production-ready solutions.
+I build intelligent systems, scalable web applications, and automation pipelines with a strong foundation in
+AI/ML, backend engineering, and cloud-native design.
+<br/>
+My work focuses on transforming complex data and workflows into reliable, production-ready solutions.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abeergandhi&label=Profile%20Views&color=0e75b6&style=flat" alt="abeergandhi" />
+  <img src="https://komarev.com/ghpvc/?username=abeergandhi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/abeergandhi?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/abeergandhi?label=Total%20Stars&style=flat" />
 </p>
 
 ---
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abeer-gandhi-22133726a" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+<h3 align="left">Professional Focus</h3>
+
+<ul>
+  <li>AI/ML & Deep Learning systems for real-world applications</li>
+  <li>Natural Language Processing (Summarization, Q&A, RAG pipelines)</li>
+  <li>Scalable backend engineering & API design</li>
+  <li>Cloud deployment, automation, and workflow orchestration</li>
+  <li>End-to-end product development from research to deployment</li>
+</ul>
 
 ---
 
@@ -28,27 +34,21 @@ I enjoy solving complex problems, working across the stack, and turning ideas in
 
 <ul>
   <li>
-    <b>LexSum – Legal Document Summarization & Q&A System</b><br/>
-    AI-driven web application for summarizing legal documents and answering contextual queries using transformer models and RAG pipelines.<br/>
+    <b>LexSum – AI-Based Legal Document Summarization & Q&A</b><br/>
+    Transformer-based NLP system for legal document summarization and contextual question answering using RAG pipelines.<br/>
     <a href="https://github.com/AbeerGandhi" target="_blank">Repository</a>
   </li>
   <br/>
   <li>
-    <b>MediGuide – Intelligent Medical Assistance Platform</b><br/>
-    NLP-based healthcare assistant providing symptom analysis, guidance, and decision support through a clean web interface.<br/>
+    <b>MediGuide – Intelligent Medical Assistance System</b><br/>
+    NLP-powered healthcare assistant enabling symptom analysis, medical guidance, and interactive querying.<br/>
     <a href="https://github.com/AbeerGandhi/MediGuide" target="_blank">Repository</a>
   </li>
   <br/>
   <li>
     <b>Web-Based Code Editor</b><br/>
-    Browser-based code editor built with modern frontend technologies, enabling real-time code writing and execution workflows.<br/>
+    Browser-based development environment built with modern frontend technologies for interactive coding workflows.<br/>
     <a href="https://github.com/AbeerGandhi/CODE-EDITOR" target="_blank">Repository</a>
-  </li>
-  <br/>
-  <li>
-    <b>Automation & Workflow Systems</b><br/>
-    Multiple automation solutions integrating APIs, bots, and cloud deployments to streamline repetitive workflows.<br/>
-    <a href="https://github.com/AbeerGandhi" target="_blank">View Repositories</a>
   </li>
 </ul>
 
@@ -57,27 +57,82 @@ I enjoy solving complex problems, working across the stack, and turning ideas in
 <h3 align="left">Tech Stack</h3>
 
 <p align="left">
-<strong>Languages:</strong> Python, JavaScript, TypeScript, C, C++, Java<br/><br/>
-<strong>Backend & APIs:</strong> Flask, Django, Node.js, Express<br/><br/>
-<strong>Frontend:</strong> React, React Native, HTML5, CSS3, Chart.js<br/><br/>
-<strong>AI / ML:</strong> PyTorch, TensorFlow, Scikit-learn, Pandas, OpenCV, NLP<br/><br/>
-<strong>Databases:</strong> PostgreSQL, MongoDB, MySQL, Firebase<br/><br/>
-<strong>Cloud & DevOps:</strong> AWS, Google Cloud, Docker, Kubernetes, Heroku<br/><br/>
-<strong>Tools:</strong> Git, Postman, Selenium, Figma, Zapier
+<b>Languages</b><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+
+<p align="left">
+<b>AI / ML / Deep Learning</b><br/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</p>
+
+<p align="left">
+<b>Backend & APIs</b><br/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</p>
+
+<p align="left">
+<b>Databases</b><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+<p align="left">
+<b>Cloud & DevOps</b><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
+
+<p align="left">
+<b>Tools & Automation</b><br/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
 </p>
 
 ---
 
-<h3 align="left">GitHub Analytics</h3>
+<h3 align="left">GitHub Activity</h3>
 
 <p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=abeergandhi&show_icons=true&locale=en&layout=compact"
-       alt="abeergandhi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abeergandhi&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeergandhi" />
 </p>
 
 ---
 
+<h3 align="left">Connect With Me</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/abeer-gandhi-22133726a" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       width="40"/>
+</a>
+<a href="https://github.com/AbeerGandhi" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       width="40"/>
+</a>
+</p>
+
 <p align="center">
-<b>Currently focused on:</b> AI-driven applications, scalable backend systems, cloud deployments, and automation.
+<b>Interests:</b> Artificial Intelligence, NLP, Large Language Models, Cloud Systems, Research-Driven Engineering
 </p>
