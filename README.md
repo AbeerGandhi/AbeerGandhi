@@ -106,19 +106,7 @@ My work focuses on transforming complex data and workflows into reliable, produc
 <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
 </p>
 
----
-
-<h3 align="left">GitHub Activity</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abeergandhi&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeergandhi" />
-</p>
-
----
+---------
 
 <h3 align="left">Connect With Me</h3>
 
