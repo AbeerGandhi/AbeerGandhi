@@ -1,6 +1,6 @@
 <h1 align="center">Abeer Gandhi</h1>
 <h3 align="center">
-AI & Machine Learning Engineer | Full-Stack Software Engineer | Cloud & Automation
+AI & Machine Learning Engineer | Software Engineer | Cloud & Automation
 </h3>
 
 <p align="center">
